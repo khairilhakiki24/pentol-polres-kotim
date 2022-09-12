@@ -1,0 +1,26 @@
+{
+  "cwd": "/home/oktama/Documents/POLISI/cobest-app",
+  "type": [
+    "capacitor",
+    "web"
+  ],
+  "name": "Cobest App",
+  "framework": "vue",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": "scss",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "pkg": "io.framework7.cobest",
+  "capacitor": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
